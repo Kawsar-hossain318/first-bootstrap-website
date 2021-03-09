@@ -1,0 +1,12 @@
+
+@media only screen and (min-width:480px) and (max-width:767px){
+
+    .seconditem .box2 {
+        background-color: #0C2B4B;
+        padding: 35px;
+        margin-top: 30px;
+        width: 105%;
+        margin-left: -15px;
+    }
+
+}
